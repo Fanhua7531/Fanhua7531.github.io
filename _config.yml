@@ -1,4 +1,6 @@
-  include:
+title: 你今天奉献了吗
+description: 奉献了吗？了吗？吗？
+theme: jekyll-theme-cayman
+
+include:
       README.md
-      
-  theme: jekyll-theme-cayman
